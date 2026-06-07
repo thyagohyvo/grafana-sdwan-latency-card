@@ -49,7 +49,7 @@ O card exibe, em tempo real, métricas de latência de todos os links WAN monito
 
 ### Pré-requisitos
 
-- Grafana com plugin **[HTML Graphics](https://grafana.com/grafana/plugins/marcusolsson-html-graphics-panel/)** instalado
+- Grafana com plugin **[HTML Graphics](https://grafana.com/grafana/plugins/gapit-htmlgraphics-panel/)** instalado
 - Datasource **Zabbix** configurado
 - Itens de latência cadastrados no Zabbix com nomenclatura padronizada
 

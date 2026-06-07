@@ -5,6 +5,8 @@ Card customizado em HTML/CSS/JavaScript para monitoramento de latência SD-WAN n
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Grafana](https://img.shields.io/badge/Grafana-HTML%20Graphics-orange)
 ![Datasource](https://img.shields.io/badge/Datasource-Zabbix-red)
+<img width="1598" height="652" alt="image" src="https://github.com/user-attachments/assets/5054d2b8-0d33-49ee-aeba-18ad68f660fb" />
+
 
 ---
 
@@ -42,6 +44,7 @@ O card exibe, em tempo real, métricas de latência de todos os links WAN monito
 ├── css.css            # Estilos do painel e componentes
 └── onRender.js        # Lógica de renderização e leitura dos dados do Grafana
 ```
+<img width="1530" height="383" alt="image" src="https://github.com/user-attachments/assets/bff0c8d4-e9a7-496b-b93b-1763ac34b4a5" />
 
 ---
 

@@ -1,4 +1,4 @@
-# 📡 SD-WAN — Latência por Link | Grafana HTML Graphics Card
+# 📡 SD-WAN - Latência por Link | Grafana HTML Graphics Card
 
 Card customizado em HTML/CSS/JavaScript para monitoramento de latência SD-WAN no Grafana, utilizando o plugin **HTML Graphics** com dados provenientes do **Zabbix**.
 
@@ -14,9 +14,9 @@ Card customizado em HTML/CSS/JavaScript para monitoramento de latência SD-WAN n
 
 O card exibe, em tempo real, métricas de latência de todos os links WAN monitorados de um host, organizados em um grid responsivo. Cada link possui seu próprio painel com:
 
-- **Badge de status** — NORMAL / CRÍTICO com cores dinâmicas
-- **KPIs** — Atual, Média, Máx e Mín (em ms)
-- **Gráfico de linha** — com área sombreada, threshold visual e pontos de alerta destacados
+- **Badge de status** - NORMAL / CRÍTICO com cores dinâmicas
+- **KPIs** - Atual, Média, Máx e Mín (em ms)
+- **Gráfico de linha** - com área sombreada, threshold visual e pontos de alerta destacados
 
 ---
 
@@ -63,7 +63,7 @@ O card exibe, em tempo real, métricas de latência de todos os links WAN monito
 | Query type | Metrics |
 | Group | `/.*/` |
 | Host | `NOME-HOST` |
-| Item tag | — |
+| Item tag | - |
 | Item | `/Latency.*/` |
 
 > O filtro `/Latency.*/` retorna automaticamente todos os itens de latência do host, sem necessidade de queries adicionais.
@@ -134,4 +134,4 @@ As cores de cada link são atribuídas automaticamente em sequência a partir de
 
 ## 📄 Licença
 
-MIT — sinta-se livre para usar, modificar e distribuir.
+MIT - sinta-se livre para usar, modificar e distribuir.
